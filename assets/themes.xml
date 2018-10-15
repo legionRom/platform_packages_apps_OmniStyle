@@ -19,6 +19,9 @@
     <theme name="Be-Xtended" accent="org.omnirom.theme.accent.rottenorange"
            thumbnail="thumbnail_xtended.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.xtended"/>
+    <theme name="Clear-Xtended" accent="org.omnirom.theme.accent.deadred"
+           thumbnail="thumbnail_clearxtended.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.clearxtended"/>
     <theme name="Slutty Pink" accent="org.omnirom.theme.accent.sluttypink"
            thumbnail="thumbnail_slutty_pink.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>
