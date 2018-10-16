@@ -22,6 +22,9 @@
     <theme name="Clear-Xtended" accent="org.omnirom.theme.accent.deadred"
            thumbnail="thumbnail_clearxtended.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.clearxtended"/>
+    <theme name="Eye Soother" accent="org.omnirom.theme.accent.bluemonday"
+           thumbnail="thumbnail_eye_soother.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.eyesoother"/>
     <theme name="Slutty Pink" accent="org.omnirom.theme.accent.sluttypink"
            thumbnail="thumbnail_slutty_pink.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>
