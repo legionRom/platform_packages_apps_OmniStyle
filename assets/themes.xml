@@ -25,6 +25,9 @@
     <theme name="Eye Soother" accent="org.omnirom.theme.accent.bluemonday"
            thumbnail="thumbnail_eye_soother.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.eyesoother"/>
+    <theme name="BlueBlack" accent="org.omnirom.theme.accent.elegantgreen"
+           thumbnail="thumbnail_enigma.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.blueblack"/>
     <theme name="Rocky" accent="org.omnirom.theme.accent.holillusion"
            thumbnail="thumbnail_enigma.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.black"/>
