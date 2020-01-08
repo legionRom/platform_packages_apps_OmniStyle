@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<daylight_headers>
+    <meta_data creator="Roger.TTM" />
+	<change_interval minutes="60" />
+    <list_header image="x_simple_blue" />
+    <list_header image="x_simple_green" />
+    <list_header image="x_simple_lemon" />
+    <list_header image="x_simple_orange" />
+    <list_header image="x_simple_pink" />
+    <list_header image="x_simple_red" />
+    <list_header image="x_simple_yellow" />
+    <list_header image="x_simple_xmas" />
+</daylight_headers>
+
