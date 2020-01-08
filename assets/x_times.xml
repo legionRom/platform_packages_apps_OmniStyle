@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<daylight_headers>
+    <hour_header hour="6" image="x_sunrise" />
+    <hour_header hour="9" image="x_morning" />
+    <hour_header hour="12" image="x_noon" />
+    <hour_header hour="15" image="x_afternoon" />
+    <hour_header hour="18" image="x_sunset" />
+    <hour_header hour="21" image="x_newyearseve" />
+    <hour_header hour="22" image="x_night" />
+    <hour_header hour="23" image="x_christmas" />
+</daylight_headers>
+
